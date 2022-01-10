@@ -7,4 +7,7 @@
 
 x = 10
 y = 4
-answer = 
+answer = x**y
+
+print(f"The Answer Is {answer}")
+
